@@ -30,7 +30,7 @@
 </script>
 <style scoped lang="scss">
 .appCotainer {
-  padding-top: 40px;
+  // padding-top: 40px;
   overflow-x: hidden;
 }
 .v-enter {
