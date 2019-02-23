@@ -1,0 +1,10 @@
+ul {
+  padding: 0;
+  margin: 0;
+  background-color: #fff;
+}
+#box{
+  width: 500px;
+  height: 500px;
+  background: url('../images/v2-8912e710a55b9d69b5a5b3a4e8f7a404_r.jpg')
+}
